@@ -1,0 +1,3 @@
+1- The user gameplay screen should be available all the time,
+paused on the screen after the program has been excuted and running.
+
